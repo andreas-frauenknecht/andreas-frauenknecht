@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreas Frauenknecht
 - 👀 I’m interested in everything with SW development
-- 🌱 I’m currently learning GIT
+- 🌱 I’m currently learning Python 3, DEV_OPS
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me andreas.frauenknecht@gmail.com
 
